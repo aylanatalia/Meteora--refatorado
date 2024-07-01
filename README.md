@@ -1,5 +1,16 @@
 ![Meteora](thumbnail.png)
 
+# Refatoração do projeto:
+Neste projeto desenvolvido no curso do alura, pegamos o projeto React, e refatoramos o mesmo aplicando conceitos de hooks como:
+* useEfect,
+* useContext,
+* useMemo,
+* useReducer,
+* Reducer ecustomisadizadas.
+
+Além disso utilizamos o Context API para solucionar os problemas de props drilling.
+
+
 # Meteora - E-commerce de Moda
 
 O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
